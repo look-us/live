@@ -50,3 +50,22 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71390
 
 #EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSportVoetbal.nl.png" group-title="Undefined",ZIGGO VOETBAL
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71391
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",SUPER TENNIS
+http://cineapp.org:8000/Fernando/Fernando/5058
+
+#EXTINF:0 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="ITALY",Super Tennis
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="ITALY",Tennis Channel
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159575
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="Undefined",Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Undefined",The Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
