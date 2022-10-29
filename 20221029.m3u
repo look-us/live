@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="Sport",Sky Sport Mix
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95002
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group-title="Sport",Sky Sport Arena
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94997
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group-title="Sport",Sky Sport News
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95007
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="Sport",Sky Sport Premier League
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95009
+
+#EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/SkySportsRacing.uk.png" group-title="Sport",Sky Sport Racing
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94827
+
+#EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.uk.png" group-title="Sport",EuroSport 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908
+
+#EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/BTSport1.uk.png" group-title="Sport",Bt Sport 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95052
+
+#EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/BTSportX3.uk.png" group-title="Sport",BT Sport 3
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94869
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports1.nl.png" group-title="Sport",FOX SPORTS 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71215
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports2.nl.png" group-title="Sport",FOX SPORTS 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71218
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports3.nl.png" group-title="Sport",FOX SPORTS 3
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71221
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports4.nl.png" group-title="Sport",FOX SPORTS 4
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71224
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.nl.png" group-title="Sport",EUROSPORT 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71185
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.nl.png" group-title="Sport",EUROSPORT 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71186
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSportExtra1.nl.png" group-title="Undefined",ZIGGO Extra
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71382
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSportVoetbal.nl.png" group-title="Undefined",ZIGGO VOETBAL
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71390
+
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSportVoetbal.nl.png" group-title="Undefined",ZIGGO VOETBAL
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71391
