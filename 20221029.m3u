@@ -21,6 +21,9 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908
 #EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/BTSport1.uk.png" group-title="Sport",Bt Sport 1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95052
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 #EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/BTSportX3.uk.png" group-title="Sport",BT Sport 3
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94869
 
@@ -68,4 +71,22 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Undefined",The Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135973
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135974
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135972
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135975
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
+
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 3
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977
 
