@@ -90,3 +90,11 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
 #EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 3
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977
 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
+http://cineapp.org:8000/Fernando/Fernando/4826
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS
+http://cineapp.org:8000/Fernando/Fernando/271
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://cineapp.org:8000/Fernando/Fernando/777
