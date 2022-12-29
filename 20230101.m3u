@@ -117,10 +117,73 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 #EXTINF:-1,TVRI Sumatera Utara
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1,CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1,NET TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1,MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1,MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:-1,UG TV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1,SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1,BRTV
+https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:-1,BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1946012755.m3u8
+#EXTINF:-1,Simpang-5 TV
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+#EXTINF:-1,Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1,Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+#EXTINF:-1,Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+#EXTINF:-1,PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+#EXTINF:-1,RCTV
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1,Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+#EXTINF:-1,Riau TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:-1,PON TV
+http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+#EXTINF:-1,Padang TV
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1,Radar Lampung TV
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+#EXTINF:-1,Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1,Jambi TV
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#EXTINF:-1,SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1,Citra TV
+http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
+#EXTINF:-1,Knowledge TV
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1,Showbiz-1 TV
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1,1Mus
+http://rtmp.one.by:1300
 
-
-
-
+#EXTINF:-1,EWTN
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,Bloomberg
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,CBN News
@@ -165,19 +228,36 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,TRTWORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRTWORLD
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1,ALJAZEERA
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1,ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-
-
-
-
-
 #EXTINF:-1,CBS News Chicago
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+#EXTINF:-1,CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,eGG Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1,K+
+http://45.126.83.51/uq2663/h/h08/index2.m3u8
+#EXTINF:-1,Thrill
+http://rr2.dens.tv/s/s34/index1.m3u8
+#EXTINF:-1,WAU
+http://nn.geo.joj.sk/hls/wau-360.m3u8
+
+#EXTINF:-1,FTV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,FTV
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FTV Midnite
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1,FTV UHD
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
 #EXTINF:-1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
