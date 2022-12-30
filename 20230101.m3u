@@ -117,6 +117,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 #EXTINF:-1,TVRI Sumatera Utara
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 
+#EXTINF:-1,Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1,Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1,CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1,CNBC Indonesia
@@ -188,15 +192,27 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,Cheddar News
 https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
-#EXTINF:-1,euronews
+#EXTINF:-1,etb basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1,euronews es
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1,euronews pt
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1,euronews it
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1,euronews de
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1,euronews en
 https://euronews.alteox.app/hls/en_stream.m3u8
-#EXTINF:-1,euronews
+#EXTINF:-1,euronews nl
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,euronews
+#EXTINF:-1,euronews de
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,euronews
+#EXTINF:-1,euronews au
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -236,19 +252,50 @@ http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1,ALJAZEERA
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1,CBS News Chicago
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:-1,CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,eGG Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
+#EXTINF:-1,Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1,Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1,J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1,J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1,J Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1,MAV TV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,NBT World
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1,Service
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8
+#EXTINF:-1,MNB World
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1,Insight TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1,K+
 http://45.126.83.51/uq2663/h/h08/index2.m3u8
 #EXTINF:-1,Thrill
 http://rr2.dens.tv/s/s34/index1.m3u8
 #EXTINF:-1,WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
+#EXTINF:-1,EIMC
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1,eGG Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1,NDR HD
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -283,47 +330,47 @@ https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1,World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1,MovieMix *
+#EXTINF:-1,MovieMix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1,2020 Live *
+#EXTINF:-1,2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#EXTINF:-1,Dust (Sci-Fi) *
+#EXTINF:-1,Dust (Sci-Fi)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1,Futurism *
+#EXTINF:-1,Futurism
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1,People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1,Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1,Greatest Am. Hero *
+#EXTINF:-1,Greatest Am. Hero
 https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
-#EXTINF:-1,Forensic Files *
+#EXTINF:-1,Forensic Files
 https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-#EXTINF:-1,Uns. Mysteries *
+#EXTINF:-1,Uns. Mysteries
 https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
-#EXTINF:-1,Hunter *
+#EXTINF:-1,Hunter
 https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
-#EXTINF:-1,The Commish *
+#EXTINF:-1,The Commish
 https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
-#EXTINF:-1,Wiseguy *
+#EXTINF:-1,Wiseguy
 https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
-#EXTINF:-1,21 Jumpstreet *
+#EXTINF:-1,21 Jumpstreet
 https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
-#EXTINF:-1,Crime Story *
+#EXTINF:-1,Crime Story
 https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
-#EXTINF:-1,Silk Stalkings *
+#EXTINF:-1,Silk Stalkings
 https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
-#EXTINF:-1,Laurel & Hardy *
+#EXTINF:-1,Laurel & Hardy
 https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
-#EXTINF:-1,Beverly Hillbillies *
+#EXTINF:-1,Beverly Hillbillies
 https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
-#EXTINF:-1,The Lucy Show *
+#EXTINF:-1,The Lucy Show
 https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
-#EXTINF:-1,Bonanza *
+#EXTINF:-1,Bonanza
 https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-#EXTINF:-1,The Lone Ranger *
+#EXTINF:-1,The Lone Ranger
 https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-#EXTINF:-1,Sherlock Holmes *
+#EXTINF:-1,Sherlock Holmes
 https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
-#EXTINF:-1,Real People *
+#EXTINF:-1,Real People
 https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
