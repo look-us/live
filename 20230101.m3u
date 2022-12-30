@@ -188,6 +188,8 @@ http://rtmp.one.by:1300
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,CBN News
@@ -220,6 +222,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,FOX News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX News
+https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1,MeteoNews
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1,NBC NEWS
@@ -246,6 +250,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1,arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,TRTWORLD
@@ -272,6 +278,12 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1,TVM International
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,UN TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,WeatherNews Jp
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1,TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1,RTP International
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -293,7 +305,11 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,KSA Sports
+https://edge.taghtia.com/sa/16.m3u8
 
+#EXTINF:-1,SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1,TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1,TV Asahi
@@ -338,6 +354,12 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1,Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1,Asil TV
+https://live.asil.tv/live/asil.m3u8
+#EXTINF:-1,NHK BS News
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
+#EXTINF:-1,NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
 
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
