@@ -145,18 +145,28 @@ http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 http://210.210.155.35/dr9445/h/h10/index.m3u8
 #EXTINF:-1,Indosiar
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1,Moji
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1,TV One
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1,NTV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1,El Shinta
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1,DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1,Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+#EXTINF:-1,TV MU
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
 #EXTINF:-1,BRTV
 https://e1.siar.us/badartv/live/chunks.m3u8
 #EXTINF:-1,BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,JITV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1,JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1,JTV
@@ -203,6 +213,8 @@ http://rtmp.one.by:1300
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1,U Channel
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 
 #EXTINF:-1,EWTN
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
