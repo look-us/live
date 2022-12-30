@@ -268,7 +268,13 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,Live Arrows
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1,TVM International
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 
+#EXTINF:-1,RTP International
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1,Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1,Gunma TV
@@ -281,11 +287,19 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1,MAV TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,MAV TV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1,NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1,TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1,TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1,Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1,QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1,NHK E
@@ -316,6 +330,14 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1,NDR HD
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1,Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,TBS
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1,Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1,Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
