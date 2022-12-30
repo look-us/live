@@ -135,8 +135,22 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 #EXTINF:-1,UG TV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1,SCTV
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/dr9445/h/h10/index.m3u8
+#EXTINF:-1,Indosiar
+http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1,El Shinta
+http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1,Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1,BRTV
 https://e1.siar.us/badartv/live/chunks.m3u8
 #EXTINF:-1,BTV
@@ -177,12 +191,18 @@ http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 #EXTINF:-1,Citra TV
 http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
+#EXTINF:-1,My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1,Knowledge TV
 http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1,Showbiz-1 TV
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1,1Mus
 http://rtmp.one.by:1300
+#EXTINF:-1,CCM
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1,EWTN
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
@@ -242,8 +262,10 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,RT Documentary Ru
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1,Rai News 24
+#EXTINF:-1,Rai News24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1,Rai News24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1,Televisa News Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,NHK WORLD
@@ -252,6 +274,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1,arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,TRTWORLD
@@ -268,6 +292,10 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1,CBS News Chicago
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+#EXTINF:-1,Weather Nation Chicago
+https://siloh.pluto.tv/lilo/production/WeatherNation/Chicago/master.m3u8
+#EXTINF:-1,City News Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1,CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,NASA TV
@@ -284,6 +312,16 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1,France24 Fr
+http://210.210.155.35/qwr9ew/s/s22/index.m3u8
+#EXTINF:-1,Mecca TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+#EXTINF:-1,Kabah TV
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+#EXTINF:-1,ABC News Us
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,ABC News Au
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1,RTP International
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -308,6 +346,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,KSA Sports
 https://edge.taghtia.com/sa/16.m3u8
 
+#EXTINF:-1,Phoenix TV
+http://210.210.155.35/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1,CCTV 4
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1,SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1,TV Tokyo
@@ -338,6 +380,8 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 http://45.126.83.51/uq2663/h/h08/index2.m3u8
 #EXTINF:-1,Thrill
 http://rr2.dens.tv/s/s34/index1.m3u8
+#EXTINF:-1,Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1,WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 #EXTINF:-1,EIMC
