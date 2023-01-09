@@ -393,14 +393,18 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,KSA Sports
 https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1,KSA Sports 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1,KSA Sports 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1,SBC
+https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1,Super Tennis HD
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-
 
 #EXTINF:-1,Phoenix TV
 http://210.210.155.35/qwr9ew/s/s21/index.m3u8
@@ -460,6 +464,10 @@ https://live.asil.tv/live/asil.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
 #EXTINF:-1,NHK BSP
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
+#EXTINF:-1,Mecca
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1,Kabah
+https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
