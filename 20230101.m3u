@@ -461,6 +461,22 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1,FTV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 tvg-id="FashionTVGlobal.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="FASHION",Fashion TV Global
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="FASHION",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="FASHION",Fashion TV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+#EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",Fashion & Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:-1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
