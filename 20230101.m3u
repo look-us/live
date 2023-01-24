@@ -407,14 +407,12 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Tennis Channel 
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46227
-#EXTINF:-1,Eurosport 1
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46228
-#EXTINF:-1,Eurosport 2
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46229
-#EXTINF:-1,Eurosport 2
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46230
+#EXTINF:-1,beIN Sport Premium 1
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:-1,beIN Sport Premium 2
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1,beIN Sport Premium 3
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
 
 #EXTINF:-1,Phoenix TV
 http://210.210.155.35/qwr9ew/s/s21/index.m3u8
