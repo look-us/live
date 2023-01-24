@@ -584,3 +584,113 @@ https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
 #EXTINF:-1,Real People
 https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+
+#EXTINF:-1,4seven
+http://31.187.196.89:60230/play/a04t/index.m3u8
+#EXTINF:-1,92 News
+http://31.187.196.89:60230/play/a05r/index.m3u8
+#EXTINF:-1,ATN
+http://31.187.196.89:60230/play/a05g/index.m3u8
+#EXTINF:-1,Ahlebait TV
+http://31.187.196.89:60230/play/a05i/index.m3u8
+#EXTINF:-1,Ayozat TV
+http://31.187.196.89:60230/play/a07u/index.m3u8
+#EXTINF:-1,BBC NEWS
+http://31.187.196.89:60230/play/a04n/index.m3u8
+#EXTINF:-1,BBC One E Mid
+http://31.187.196.89:60230/play/a04e/index.m3u8
+#EXTINF:-1,BBC One East E
+http://31.187.196.89:60230/play/a04f/index.m3u8
+#EXTINF:-1,BBC One NI
+http://31.187.196.89:60230/play/a06z/index.m3u8
+#EXTINF:-1,BBC One Oxford
+http://31.187.196.89:60230/play/a04m/index.m3u8
+#EXTINF:-1,BBC One S West
+http://31.187.196.89:60230/play/a04l/index.m3u8
+#EXTINF:-1,BBC One South
+http://31.187.196.89:60230/play/a04k/index.m3u8
+#EXTINF:-1,BBC One W Mid
+http://31.187.196.89:60230/play/a04c/index.m3u8
+#EXTINF:-1,BBC One Wales
+http://31.187.196.89:60230/play/a04h/index.m3u8
+#EXTINF:-1,BBC One Yk&Li
+http://31.187.196.89:60230/play/a04d/index.m3u8
+#EXTINF:-1,BBC Parliament
+http://31.187.196.89:60230/play/a04g/index.m3u8
+#EXTINF:-1,BBC Two NI
+http://31.187.196.89:60230/play/a070/index.m3u8
+#EXTINF:-1,BBC Two Wales
+http://31.187.196.89:60230/play/a04i/index.m3u8
+#EXTINF:-1,BT Sport 1
+http://31.187.196.89:60230/play/a04x/index.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.187.196.89:60230/play/a04z/index.m3u8
+#EXTINF:-1,CBBC
+http://31.187.196.89:60230/play/a06y/index.m3u8
+#EXTINF:-1,CBS Drama
+http://31.187.196.89:60230/play/a04u/index.m3u8
+#EXTINF:-1,CBS Justice
+http://31.187.196.89:60230/play/a04y/index.m3u8
+#EXTINF:-1,CBS Reality
+http://31.187.196.89:60230/play/a051/index.m3u8
+#EXTINF:-1,CBS Reality+1
+http://31.187.196.89:60230/play/a077/index.m3u8
+#EXTINF:-1,CHSTV
+http://31.187.196.89:60230/play/a05h/index.m3u8
+#EXTINF:-1,Channel 4 HD
+http://31.187.196.89:60230/play/a04s/index.m3u8
+#EXTINF:-1,ETV5
+http://31.187.196.89:60230/play/a04j/index.m3u8
+#EXTINF:-1,ETV6
+http://31.187.196.89:60230/play/a04o/index.m3u8
+#EXTINF:-1,Hi-Impact TV
+http://31.187.196.89:60230/play/a05t/index.m3u8
+#EXTINF:-1,ITV 1 Anglia West HD
+http://31.187.196.89:60230/play/a073/index.m3u8
+#EXTINF:-1,ITV 1 Central East HD
+http://31.187.196.89:60230/play/a074/index.m3u8
+#EXTINF:-1,ITV 1 Meridian North HD
+http://31.187.196.89:60230/play/a072/index.m3u8
+#EXTINF:-1,ITV 1 Meridian South HD
+http://31.187.196.89:60230/play/a071/index.m3u8
+#EXTINF:-1,ITV HD
+http://31.187.196.89:60230/play/a06u/index.m3u8
+#EXTINF:-1,ITV3 HD
+http://31.187.196.89:60230/play/a06t/index.m3u8
+#EXTINF:-1,KICC TV
+http://31.187.196.89:60230/play/a05l/index.m3u8
+#EXTINF:-1,Legend
+http://31.187.196.89:60230/play/a07v/index.m3u8
+#EXTINF:-1,Liverpool TV
+http://31.187.196.89:60230/play/a05p/index.m3u8
+#EXTINF:-1,Racing TV HD
+http://31.187.196.89:60230/play/a07y/index.m3u8
+#EXTINF:-1,S4C
+http://31.187.196.89:60230/play/a053/index.m3u8
+#EXTINF:-1,Showcase
+http://31.187.196.89:60230/play/a07k/index.m3u8
+#EXTINF:-1,Showcase
+http://31.187.196.89:60230/play/a05q/index.m3u8
+#EXTINF:-1,Smithsonian HD
+http://31.187.196.89:60230/play/a07x/index.m3u8
+#EXTINF:-1,SportyStuff HD
+http://31.187.196.89:60230/play/a07s/index.m3u8
+#EXTINF:-1,TRT World HD
+http://31.187.196.89:60230/play/a07z/index.m3u8
+#EXTINF:-1,TalkingPictures
+http://31.187.196.89:60230/play/a05j/index.m3u8
+#EXTINF:-1,Trace Hits
+http://31.187.196.89:60230/play/a075/index.m3u8
+#EXTINF:-1,WRN Europe
+http://31.187.196.89:60230/play/a05y/index.m3u8
+#EXTINF:-1,Word Network
+http://31.187.196.89:60230/play/a05n/index.m3u8
+#EXTINF:-1,Xpanded TV
+http://31.187.196.89:60230/play/a05m/index.m3u8
+#EXTINF:-1,horror ch+1
+http://31.187.196.89:60230/play/a078/index.m3u8
+#EXTINF:-1,horror channel
+http://31.187.196.89:60230/play/a04w/index.m3u8
+#EXTINF:-1,iON TV
+http://31.187.196.89:60230/play/a05s/index.m3u8
+
