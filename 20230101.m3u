@@ -413,6 +413,12 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1,beIN Sport Premium 3
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
+#EXTINF:-1,DIGI Sport 1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1,DIGI Sport 2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1,DIGI Sport 3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
 
 #EXTINF:-1,Phoenix TV
 http://210.210.155.35/qwr9ew/s/s21/index.m3u8
@@ -501,6 +507,14 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",ID Fashion
 https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://84.17.61.203:8086/udp/229.157.5.203:1234
+#EXTINF:-1,Vivid Red
+http://84.17.61.203:8086/udp/229.157.5.208:1234
+#EXTINF:-1,Private HD
+http://84.17.61.203:8086/udp/229.157.5.219:1234
+#EXTINF:-1,SuperOne HD
+http://84.17.61.203:8086/udp/238.2.25.83:1234
 
 #EXTINF:-1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
