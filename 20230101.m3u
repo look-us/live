@@ -471,17 +471,22 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/216
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/210
 #EXTINF:-1,beIN Sports 1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/214
-
-#EXTINF:-1,beIN Sports 1
-http://mjidiptv.com:1997/asem/1234567890/9645
-
-#EXTINF:-1,beIN Sports 1 Premium
-http://mjidiptv.com:1997/asem/1234567890/9646
-
 #EXTINF:-1,Sport France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1,Sport France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+#EXTINF:-1,More Than Sports
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1,eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1,CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1,Match Arena
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1,Match Boec
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1,KSA Sports 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports1
 
 
 
