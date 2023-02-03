@@ -18,5 +18,17 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:-1,Urban TV
 https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+#EXTINF:-1,Virtual TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1,VRT Channel
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1,Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+
+
+
+
+
+
 
 
