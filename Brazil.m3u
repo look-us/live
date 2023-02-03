@@ -10,5 +10,13 @@ https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
 #EXTINF:-1,TV WTJMINAS
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1,TVitapé
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1,TVNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1,UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+#EXTINF:-1,Urban TV
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
 
 
