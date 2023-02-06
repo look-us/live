@@ -581,12 +581,26 @@ https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1,Kabah
 https://edge.taghtia.com/sa/7.m3u8
 
+#EXTINF:-1,Fashion & Lifestyle
+http://193.33.240.8:8080/fashion_one_hd/index.m3u8
+#EXTINF:-1,Code Fashion TV
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,FTV
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1,FTV Paris
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8
+#EXTINF:-1,FTV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:-1,FTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,FTV
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,FTV Midnite
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1,FTV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,FTV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-id="FashionTVGlobal.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="FASHION",Fashion TV Global
@@ -595,6 +609,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="FASHION",Fashion TV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,FTV Midnite
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1,FTV Midnite
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,FTV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,FTV Midnite
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",Global Fashion Channel
