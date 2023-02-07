@@ -374,6 +374,12 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1,Viasat Nature
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19676
+#EXTINF:-1,Animal Planet
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19677
+#EXTINF:-1,BBC Earth
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19678
 
 #EXTINF:-1,RTP International
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -585,6 +591,8 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19189
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17744
 #EXTINF:-1,Eurosport 2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17745
+#EXTINF:-1,Motor Sport
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19699
 
 #EXTINF:-1,E!
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5161
