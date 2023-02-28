@@ -25,6 +25,15 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1,Nature TV
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 
+#EXTINF:-1,Brazzers TV Europe
+http://84.17.61.203:8086/udp/229.157.5.203:1234
+#EXTINF:-1,Vivid Red
+http://84.17.61.203:8086/udp/229.157.5.208:1234
+#EXTINF:-1,Private HD
+http://84.17.61.203:8086/udp/229.157.5.219:1234
+#EXTINF:-1,SuperOne HD
+http://84.17.61.203:8086/udp/238.2.25.83:1234
+
 
 
 
