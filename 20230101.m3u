@@ -324,6 +324,8 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/pla
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1,Televisa News Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1,NHK WORLD PREMIUM
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NHK WORLD
@@ -338,6 +340,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRTWORLD
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1,AL JAZEERA ENGLISH
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1,ALJAZEERA
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1,ALJAZEERA
@@ -751,6 +755,8 @@ https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1,Kabah
 https://edge.taghtia.com/sa/7.m3u8
 
+#EXTINF:-1,Fashion BOX
+https://vod1.laki.eu/fashionbox/video.m3u8
 #EXTINF:-1,Fashion & Lifestyle
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1,Code Fashion TV
