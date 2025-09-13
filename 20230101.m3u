@@ -1239,7 +1239,12 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1,Cay TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-
+#EXTINF:-1,TV 100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1,MBC 1
+https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,AFRICA 24
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 
 
