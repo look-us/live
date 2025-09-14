@@ -1335,6 +1335,23 @@ https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1,CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1,Euro News Albania
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757915203/ei/41PHaO-qIMH00PoPitTLwQo/ip/2a09:bac1:34c0:18:0:0:2e4:10f/id/z-c0D4mZfXk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/tx/51539853/txs/51539853,51539854,51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLO4POJ7D44-VowdhD_AbWuUj77EeBvuzNPn32GMaVBSb01ma5xCDw_MV22Pb-QsbiY2yaOTdY3g/spc/l3OVKePGhX2sEPidX-uQCnppgKMBeD_KgTI-Q5j1mTgkB7TTwbEqjbWZaIyWcoocHcNguj6tNTo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,tx,txs,hfr,playlist_duration,manifest_duration,maudio,ss,ssa,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRQIhAMRO7eWH93KMNyCpzDwA2qUe2OLjspx-LaNhs5FvC3VHAiAkqMk6vrQ7-Wtl6843JPk74em3irDdfdScBsBxFSBSgw==/file/index.m3u8
+#EXTINF:-1,News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1,Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1,Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1,Syri
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1,Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
 
 
 
