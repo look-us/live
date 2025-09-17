@@ -44,7 +44,8 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Viki 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-
+#EXTINF:-1,COM Brasil 
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 
 #EXTINF:-1,FASHIONTV
