@@ -46,6 +46,11 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,COM Brasil 
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1,Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
 
 
 #EXTINF:-1,FASHIONTV
