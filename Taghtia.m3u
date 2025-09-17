@@ -1,65 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1,SA-1
-https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1,SA-2
-https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1,SA-3
-https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1,SA-4
-https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1,SA-5
-https://edge.taghtia.com/sa/5.m3u8
-#EXTINF:-1,SA-6
-https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1,SA-7
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1,SA-8
-https://edge.taghtia.com/sa/8.m3u8
-#EXTINF:-1,SA-9
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1,SA-10
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1,SA-11
-https://edge.taghtia.com/sa/11.m3u8
-#EXTINF:-1,SA-12
-https://edge.taghtia.com/sa/12.m3u8
-#EXTINF:-1,SA-13
-https://edge.taghtia.com/sa/13.m3u8
-#EXTINF:-1,SA-14
-https://edge.taghtia.com/sa/14.m3u8
-#EXTINF:-1,SA-15
-https://edge.taghtia.com/sa/15.m3u8
-#EXTINF:-1,SA-16
-https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1,SA-17
-https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1,SA-18
-https://edge.taghtia.com/sa/18.m3u8
-#EXTINF:-1,SA-19
-https://edge.taghtia.com/sa/19.m3u8
-#EXTINF:-1,SA-20
-https://edge.taghtia.com/sa/20.m3u8
-#EXTINF:-1,SA-21
-https://edge.taghtia.com/sa/21.m3u8
-#EXTINF:-1,SA-22
-https://edge.taghtia.com/sa/22.m3u8
-#EXTINF:-1,SA-23
-https://edge.taghtia.com/sa/23.m3u8
-#EXTINF:-1,SA-24
-https://edge.taghtia.com/sa/24.m3u8
-#EXTINF:-1,SA-25
-https://edge.taghtia.com/sa/25.m3u8
-#EXTINF:-1,SA-26
-https://edge.taghtia.com/sa/26.m3u8
-#EXTINF:-1,SA-27
-https://edge.taghtia.com/sa/27.m3u8
-#EXTINF:-1,SA-28
-https://edge.taghtia.com/sa/28.m3u8
-#EXTINF:-1,SA-29
-https://edge.taghtia.com/sa/29.m3u8
-#EXTINF:-1,SA-30
-https://edge.taghtia.com/sa/30.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1,WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1,Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,Kids TV 
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mytime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Travel XP 
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1,New KPOP 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Billiards TV 
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1,FASHIONTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
