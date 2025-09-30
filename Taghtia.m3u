@@ -60,9 +60,10 @@ https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Ideas en 5 Minutos
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="Sports",4 Sport
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.cz" tvg-logo="https://i.postimg.cc/mDZnMnsL/canalplussport2.png" group-title="Sports",Canal+ Sport 2 (1080i)
+http://78.130.250.2:8023/play/a02w/index.m3u8
 
 #EXTINF:-1,FASHIONTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
