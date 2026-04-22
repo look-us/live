@@ -3,7 +3,7 @@
 #EXTINF:-1,Bloomberg TV
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1,NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,VOA
@@ -69,3 +69,13 @@ http://78.130.250.2:8023/play/a02w/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1,Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1,CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1,MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:-1,JITV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
